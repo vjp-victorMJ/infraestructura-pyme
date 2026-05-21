@@ -19,3 +19,4 @@
 
 ```bash
 sudo apt update && sudo apt upgrade -y
+- Permitir tráfico web: `ufw allow 80/tcp` y `ufw allow 443/tcp`- Permitir tráfico web: `ufw allow 80/tcp` y `ufw allow 443/tcp`- Permitir tráfico web: `ufw allow 80/tcp` y `ufw allow 443/tcp`- Permitir tráfico web: `ufw allow 80/tcp` y `ufw allow 443/tcp`
