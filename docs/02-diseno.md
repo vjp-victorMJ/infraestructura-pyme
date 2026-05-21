@@ -15,5 +15,3 @@ Servidor Ubuntu 22.04
 ├── UFW
 └── Netdata
 
-Agregar linea
-Linea por Victor
