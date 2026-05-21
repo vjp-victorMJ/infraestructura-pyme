@@ -16,3 +16,5 @@ Servidor Ubuntu 22.04
 └── Netdata
 
 Agregar linea
+
+Linea por Daniel, daniel la linea
