@@ -28,3 +28,5 @@
 - GitHub
 - VS Code
 - Markdown
+
+Planificación
