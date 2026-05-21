@@ -15,4 +15,4 @@ Servidor Ubuntu 22.04
 ├── UFW
 └── Netdata
 
-ss
+Agregar linea
