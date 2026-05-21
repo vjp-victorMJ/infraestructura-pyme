@@ -183,6 +183,10 @@ sudo systemctl restart apache2
 - Se asume entorno de desarrollo/prueba inicial
 - Para producción, revisar políticas adicionales de seguridad
 
+## Reglas UFW
+- Permitir SSH solo desde IP de la oficina: `ufw allow from 192.168.1.0/24 to any port 22`
+- Permitir tráfico web: `ufw allow 80/tcp` y `ufw allow 443/tcp`
+
 ---
 
 *Última actualización: 2026*
