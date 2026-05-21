@@ -7,10 +7,10 @@
 # Monitorización
 
 ## Herramienta seleccionada
-
-Netdata
+<!-- Hola Victor que tal estas espero que bien, dale un review cuando puedas gracias -->
+Netdata 
 
 ## Instalación
 
 ```bash
-bash <(curl -Ss https://my-netdata.io/kickstart.sh)
+bash <(c

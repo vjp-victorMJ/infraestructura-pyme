@@ -14,3 +14,4 @@ Garantizar la recuperación de datos críticos.
 
 ```bash
 mysqldump -u root -p web_empresa > backup_web.sql
+
