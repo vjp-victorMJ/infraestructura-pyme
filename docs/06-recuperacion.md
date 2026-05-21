@@ -15,6 +15,7 @@ Restaurar los servicios críticos en caso de fallo.
 - Fallo del servidor
 - Corrupción de base de datos
 - Pérdida de configuración
+- Test
 
 ## Recuperación de backups
 
