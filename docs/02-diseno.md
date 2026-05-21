@@ -18,3 +18,4 @@ Servidor Ubuntu 22.04
 Agregar linea
 
 <!-- Revisa todo, por favor -->
+<!-- Comentario 2-->
