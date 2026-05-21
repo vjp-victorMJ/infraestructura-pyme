@@ -26,10 +26,19 @@ Repositorio colaborativo para la planificación y documentación del despliegue 
 ## Estructura del proyecto
 
 ```text
-docs/
-├── 01-analisis.md
-├── 02-diseno.md
-├── 03-planificacion.md
-├── 04-instalacion/
-├── 05-operacion.md
-└── 06-recuperacion.md
+infraestructura-pyme/
+├── docs/
+│   ├── 01-analisis.md
+│   ├── 02-diseno.md
+│   ├── 03-planificacion.md
+│   ├── 04-instalacion/
+│   │   ├── servidor-web.md
+│   │   ├── base-de-datos.md
+│   │   ├── ssh-firewall.md
+│   │   ├── monitorizacion.md
+│   │   └── backups.md
+│   ├── 05-operacion.md
+│   └── 06-recuperacion.md
+├── CHANGELOG.md
+├── README.md
+└── tareas.md
